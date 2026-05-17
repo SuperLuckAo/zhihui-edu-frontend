@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm add)",
+      "Bash(pnpm dlx *)",
+      "Bash(pnpm remove *)",
+      "Bash(pnpm add *)",
+      "Bash(pnpm exec *)",
+      "Bash(pnpm list *)",
+      "Bash(npm view *)",
+      "Bash(pnpm build *)",
+      "Read(//home/user/code/zhao/frontend/zhihui-edu/apps/**)",
+      "Read(//home/user/code/zhao/frontend/zhihui-edu/apps/c-end/**)"
+    ]
+  }
+}
